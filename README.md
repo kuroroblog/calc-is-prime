@@ -1,6 +1,8 @@
 # calc-is-prime
 素数を判定するプログラムを作成しました。
 
+## zipをダウンロードしてから動作確認する
+
 1. https://github.com/kuroroblog/calc-is-prime へアクセスする。
 2. 緑色の「Code」と書かれたボタンを選択
 3. 「Download ZIP」を選択
